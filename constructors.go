@@ -1,4 +1,4 @@
-package main
+package gomakejson
 
 func (jo Object) Add(name string, val JsonVal) Object {
 	jo.Fields = append(jo.Fields, Field{name, val})

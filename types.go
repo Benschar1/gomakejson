@@ -1,4 +1,4 @@
-package main
+package gomakejson
 
 // JsonVal is the interface representing a Json value.
 // It implements the Marshaler interface making it
